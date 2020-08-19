@@ -1,5 +1,15 @@
 .tmp*
+.coverage
+.env
 *.pyc
 *.DS_Store
 .pydevproject
 .project
+build/
+dist/
+htmlcov/
+*.egg*
+*.swp
+*~
+*.orig
+docs/_build
